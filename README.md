@@ -103,7 +103,7 @@
 ---
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*oZFmNIRBQoeGJMLC0tZAtg.gif" alt="Coding" width="500" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="Data Science" width="500" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
-  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Python" width="500" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub" height= "187.5" width="250" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="Data Science" width="250" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Python" width="250" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
 </p>
